@@ -18,7 +18,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.microlife.net.cn/doctor/57_57.png</string>
+                   <string>http://www.microlife.net.cn/doctor/doctor_index/57_57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -26,7 +26,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.microlife.net.cn/doctor/512_512.png</string>
+                   <string>http://www.microlife.net.cn/doctor/doctor_index/512_512.png</string>
                </dict>
            </array>
            <key>metadata</key>
