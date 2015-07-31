@@ -33,7 +33,7 @@
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.anyibal.patient_inhouse</string>
+               <string>com.anyibal.liver.patient</string>
                <key>bundle-version</key>
                <string>4</string>
                <key>kind</key>
