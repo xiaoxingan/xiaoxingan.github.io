@@ -10,7 +10,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://cdn.superlucy.net/app/doctor_liver.ipa?version=14</string>
+                   <string>http://cdn.superlucy.net/app/patient_liver.ipa?version=14</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -18,7 +18,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.microlife.net.cn/doctor/doctor_index/57_57.png</string>
+                   <string>http://cdn.superlucy.net/app/patient/57_57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -26,14 +26,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.microlife.net.cn/doctor/doctor_index/512_512.png</string>
+                   <string>http://cdn.superlucy.net/app/patient/512_512.png</string>
                </dict>
            </array>
            <key>metadata</key>
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.anyibal.doctor_inhouse</string>
+               <string>com.anyibal.patient_inhouse</string>
                <key>bundle-version</key>
                <string>4</string>
                <key>kind</key>
@@ -41,7 +41,7 @@
                <key>subtitle</key>
                <string>超体团队 </string>
                <key>title</key>
-               <string>小心肝(医生版)</string>
+               <string>小心肝</string>
            </dict>
        </dict>
    </array>
